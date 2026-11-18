@@ -85,7 +85,7 @@ function AuthScreen() {
             <Calculator className="w-6 h-6" />
           </div>
           <div>
-            <h1 className="text-xl font-bold tracking-tight text-white">GastroProfit</h1>
+            <h1 className="text-xl font-bold tracking-tight text-white">GestorAmigo</h1>
             <p className="text-xs text-slate-400">Engenharia de Cardápio & Margem Delivery</p>
           </div>
         </div>
